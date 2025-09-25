@@ -1,0 +1,15 @@
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.AssemblyInfoInputs.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.AssemblyInfo.cs
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.csproj.CoreCompileInputs.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.sourcelink.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/bin/Debug/net9.0/Task Two
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/bin/Debug/net9.0/Task Two.deps.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/bin/Debug/net9.0/Task Two.runtimeconfig.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/bin/Debug/net9.0/Task Two.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/bin/Debug/net9.0/Task Two.pdb
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/refint/Task Two.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.pdb
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/Task Two.genruntimeconfig.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Two/obj/Debug/net9.0/ref/Task Two.dll

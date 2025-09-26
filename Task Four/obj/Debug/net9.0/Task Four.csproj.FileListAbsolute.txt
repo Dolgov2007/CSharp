@@ -1,0 +1,15 @@
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/bin/Debug/net9.0/Task Four
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/bin/Debug/net9.0/Task Four.deps.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/bin/Debug/net9.0/Task Four.runtimeconfig.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/bin/Debug/net9.0/Task Four.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/bin/Debug/net9.0/Task Four.pdb
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.AssemblyInfoInputs.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.AssemblyInfo.cs
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.csproj.CoreCompileInputs.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.sourcelink.json
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/refint/Task Four.dll
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.pdb
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/Task Four.genruntimeconfig.cache
+/Users/arseniy/Папка с папками/Учёба/Основы программирования/22.09.2025 C#/Task Four/obj/Debug/net9.0/ref/Task Four.dll
